@@ -23,6 +23,7 @@ Throughout the semester, I worked on projects that strengthened my ability to:
 │── 📂 Arrays_and_Pointers                 # Arrays, pointers, and dynamic memory
 │── 📂 Classes_and_Objects                 # Object-Oriented Programming concepts like classes and objects
 │── 📂 File_IO_and_Data_Processing         # Handling file input/output and processing data (e.g., reading from/writing to files)
+│── 📂 Study_Guide_Project                 # Processing input/output, ensuring accurate results through user interaction, displaying score
 │── 📄 README.md                           # This file  
 ```
 

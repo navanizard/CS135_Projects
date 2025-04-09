@@ -52,7 +52,7 @@ question: Declare class Coord as follows:
             double y;
     };
 Declare a Coord object point and initialize its x as 2 and y as 3.
-answer: Coord point = {2, 3}; 
+answer: Coord point = {2, 3};
 explanation: or Coord point{2, 3}; or Coord point; point.x = 2; point.y = 3;
 version: f24 v1
 label: 1.7

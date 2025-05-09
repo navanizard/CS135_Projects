@@ -23,10 +23,13 @@ Throughout the semester, I worked on projects that strengthened my ability to:
 │── 📂 Arrays_and_Pointers                 # Arrays, pointers, and dynamic memory
 │── 📂 Classes_and_Objects                 # Object-Oriented Programming concepts like classes and objects
 │── 📂 File_IO_and_Data_Processing         # Handling file input/output and processing data (e.g., reading from/writing to files)
-│── 📂 Study-Guide-CLI (*see below)         # Processing input/output, ensuring accurate results through user interaction, displaying score
+│── 📂 Study-Guide-CLI (*see below)        # Processing input/output, ensuring accurate results through user interaction, displaying score
+│── 📂 Connect4 (**see below)              # Object-Oriented Programming, dynamic memory (vectors), 2D grid processing, user input validation
 │── 📄 README.md                           # This file  
 ```
 *🔗 **View the project here:** [Study-Guide-CLI](https://github.com/navanizard/Study-Guide-CLI)
+
+**🔗 **View the project here:** [Connect4](https://github.com/navanizard/Connect4)
 
 ## Technologies Used
 - **C++** (for all programming assignments and projects)

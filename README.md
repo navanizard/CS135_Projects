@@ -20,20 +20,22 @@ Throughout the semester, I worked on projects that strengthened my ability to:
 │── 📂 Strings_and_Arrays                  # String methods and manipulation and arrays
 │── 📂 Loops_and_Simulations               # Loop structures and simulations
 │── 📂 Functions_and_Scope                 # Functions, parameter passing, scope, and static variables
-│── 📂 Arrays_and_Pointers                 # Arrays, pointers, and dynamic memory
+│── 📂 Arrays_and_Vectors                  # Arrays, vectors, pointers, and dynamic memory
 │── 📂 Classes_and_Objects                 # Object-Oriented Programming concepts like classes and objects
 │── 📂 File_IO_and_Data_Processing         # Handling file input/output and processing data (e.g., reading from/writing to files)
+│── 📂 Study-Guide-CLI (*see below)        # Processing input/output, ensuring accurate results through user interaction, displaying score
+│── 📂 Connect4 (**see below)              # Object-Oriented Programming, dynamic memory (vectors), 2D grid processing, user input validation
 │── 📄 README.md                           # This file  
 ```
+*🔗 **View the project here:** [Study-Guide-CLI](https://github.com/navanizard/Study-Guide-CLI)
+
+**🔗 **View the project here:** [Connect4](https://github.com/navanizard/Connect4)
 
 ## Technologies Used
 - **C++** (for all programming assignments and projects)
 - **GCC** (GNU Compiler Collection for compiling C++ code)
 - **Linux** (for development environment and command-line tools)
-- **Object-Oriented Programming** (OOP concepts such as classes, inheritance, and polymorphism)
-- **Algorithms** (Sorting, searching, and optimization techniques)
-- **Data Structures** (Arrays, linked lists, stacks, and queues)
-
+  
 ## Notes
 This repository reflects my learning experience in CSCI 13500. Through various assignments and projects, I gained a solid foundation in C++ and software design. The course has enhanced my problem-solving skills and my ability to write clean, efficient code.
 

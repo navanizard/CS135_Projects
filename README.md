@@ -20,7 +20,7 @@ Throughout the semester, I worked on projects that strengthened my ability to:
 │── 📂 Strings_and_Arrays                  # String methods and manipulation and arrays
 │── 📂 Loops_and_Simulations               # Loop structures and simulations
 │── 📂 Functions_and_Scope                 # Functions, parameter passing, scope, and static variables
-│── 📂 Arrays_and_Pointers                 # Arrays, pointers, and dynamic memory
+│── 📂 Arrays_and_Vectors                  # Arrays, vectors, pointers, and dynamic memory
 │── 📂 Classes_and_Objects                 # Object-Oriented Programming concepts like classes and objects
 │── 📂 File_IO_and_Data_Processing         # Handling file input/output and processing data (e.g., reading from/writing to files)
 │── 📂 Study-Guide-CLI (*see below)        # Processing input/output, ensuring accurate results through user interaction, displaying score
